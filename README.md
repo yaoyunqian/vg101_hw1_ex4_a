@@ -4,7 +4,7 @@ What a README File is and what it should contain
 
 A brief description of README File
 -----------------------------------
-README File is a file edited by programming language online, in which you can conveniently actualize the expected format of your file contents. Through certain applications of signs and instructions, you can set the title, create a list, adjust the spaces, insert an image and so on in this file. And this file can be shared online, peer-reviewed and improved by others if you want to.
+README File is a file edited by programming language online, in which you can give explanations, approaches and other necessary information about a program you developed. Through certain applications of signs and instructions, you can set the title, create a list, adjust the spaces, insert an image and so on in this file. And with the help of this file, your codes shared online can be better understood, peer-reviewed and improved by others if you want to.
 
 Normaltive contents of a README File
 ------------------------------------
